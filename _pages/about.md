@@ -18,5 +18,7 @@ Prior to joining Samsung, I completed my Masters in Mathematics and Bachelors in
 
 In my free time I like to play chess, watch football, read (mostly fiction) and I occassionally write as well. 
 
-Research Interests:
+Research Interests
+======
+
 My research interests lie in distributed storage systems, the application of machine learning in solving storage systems problems, workload characterisation and classification, data grouping problems in SSDs and mathematical modelling.
