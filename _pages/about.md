@@ -16,7 +16,7 @@ In the past, I have worked on disaggregated storage systems and distributed syst
 
 Prior to joining Samsung, I completed my Masters in Mathematics and Bachelors in Electrical and Electronics Engineering from [BITS Pilani, Goa](https://www.bits-pilani.ac.in/goa/). During my time there I worked on the research areas of Mathematical Modelling and Disease Dynamics (stability analysis) under the guidance of [Prof. Amit Setia](https://scholar.google.com/citationsuser=Wt02vywAAAAJ&hl=en&oi=sra).
 
-I enjoy teaching (and mentoring) and I strongly believe in free access to information, especially in an academic setting. Given this belief I share academic knowledge from my experiences thus far in the field of Mathematics (when time permits) on my [Youtube Channel](https://www.youtube.com/@nairsrealm4749). In the coming years, I hope to spend more time on this mission of teaching and democratizing academic information to help students (and other professionals) from less priviledged backgrounds.
+I enjoy teaching and I strongly believe in free access to information, especially in an academic setting. Given this belief I share academic knowledge (when time permits) from my experiences thus far in the field of Mathematics  on my [Youtube Channel](https://www.youtube.com/@nairsrealm4749). In the coming years, I hope to spend more time on teaching.
 
 In my free time I like to play chess, watch football, read (mostly fiction) and indulge in art and writing as well. I also enjoy talking long walks and listening to music.
 
