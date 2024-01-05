@@ -187,7 +187,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-
+  papers_and_patents:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -222,6 +224,15 @@ defaults:
   - scope:
       path: ""
       type: publications
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _papers_and_patents
+  - scope:
+      path: ""
+      type: papers_and_patents
     values:
       layout: single
       author_profile: true
