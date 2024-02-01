@@ -3,11 +3,11 @@ main:
   - title: "Publications"
     url: /papers_and_patents/ 
 
-  - title: "Teaching"
-    url: /teaching/    
+  #- title: "Teaching"
+  #  url: /teaching/    
     
-  - title: "Research Projects"
-    url: /portfolio/
+  #- title: "Research Projects"
+  #  url: /portfolio/
         
   #- title: "Blog Posts"
   #  url: /year-archive/
@@ -15,6 +15,6 @@ main:
   #- title: "Papers and Patents"
   #  url: /papers_and_patents/
     
-  - title: "CV"
-    url: /cv/
+  #- title: "CV"
+  #  url: /cv/
 
