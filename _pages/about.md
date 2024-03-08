@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
- I am a research engineer at [Samsung Semiconductor (Bangalore, India)](https://www.linkedin.com/company/samsungsemiconductor/), where I work on data placement technologies involving SSDs, distributed storage systems, workload analysis and the applications of machine learning in systems.
+ I am a Staff Engineer at [Samsung Semiconductor (Bangalore, India)](https://www.linkedin.com/company/samsungsemiconductor/), where I work on data placement technologies involving SSDs, distributed storage systems, workload analysis and the applications of machine learning in systems.
          	
 I currently work on data grouping problems and data placement methods involving SSDs, specifically [Flexible Data Placement (FDP)](https://www.youtube.com/watch?v=ZEISXHcNmSk) and its integration to various application stacks (ex. [CacheLib](https://cachelib.org/)). 
 
