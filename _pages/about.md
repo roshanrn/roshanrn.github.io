@@ -34,6 +34,8 @@ News
 [September 1, 2023] I've moved internally at Samsung into the Global Open-ecoSystem Team (GOST) to work on NVMe FDP, CacheLib and multi-tenancy problems.
 <br>
 [March 1, 2022] I've been promoted to Associate Staff Engineer (SDE 2) at Samsung Semiconductor!
+[August 17, 2020] I've joined Samsung Semiconductor full time to work on a disaggregated distributed block storage solution!
+[July 5, 2019] I've joined Samsung Semiconductor in the final year of college for a year long internship.
 
 
 
