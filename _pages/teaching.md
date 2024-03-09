@@ -12,7 +12,8 @@ author_profile: true
 * Teaching Assistant - EEEF244: Microelectronic Circuits
 
 ## Independent Teaching - YouTube
-* Playlist on mathematical Modelling
+* Playlist on [Mathematical Modelling](https://youtube.com/playlist?list=PLKySgDp65cPYUt4iQ6RT1BPLPtRqahs_o&si=o1kqoxWdkYAqzhD9)
+* Playlist on [Elementary Real Analysis](https://youtube.com/playlist?list=PLKySgDp65cPbrdAixfwOO-Vcsm_aKnZLx&si=NG6vGYXUwl7O7phI) 
 
 
 
