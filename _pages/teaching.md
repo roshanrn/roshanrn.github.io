@@ -1,9 +1,12 @@
 ---
 layout: archive
-title: "Teaching"
+title: "Teaching and Talks"
 permalink: /teaching/
 author_profile: true
 ---
+
+## Samsung Semiconductor (bangalore, India)
+* 
 
 
 ## Birla Institute of Technology and Science, Pilani (Goa)
