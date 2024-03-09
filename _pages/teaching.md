@@ -6,15 +6,12 @@ author_profile: true
 ---
 
 
-# Teaching
-
-
-### Birla Institute of Technology and Science, Pilani (Goa)
+## Birla Institute of Technology and Science, Pilani (Goa)
 * Teaching Assistant - MATHF214: Elementary Real Analysis
 * Teaching Assistant - MATHF312: Ordinary Differential Equations
 * Teaching Assistant - EEEF244: Microelectronic Circuits
 
-### Independent Teaching - YouTube
+## Independent Teaching - YouTube
 
 
 
