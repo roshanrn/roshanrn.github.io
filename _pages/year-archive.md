@@ -18,4 +18,6 @@ author_profile: true
 
 [August 17, 2020] I've joined Samsung Semiconductor full time to work on a disaggregated distributed block storage solution! <br>
 
-[July 5, 2019] I've joined Samsung Semiconductor in the final year of college for a year long internship. <br>
+[August 2020] I've graduated from BITS, Pilani with my Bachelors in Electrical and Electronics Engineering and Masters in Mathematics!
+
+[July 5, 2019] I've joined Samsung Semiconductor in my final year of college for a year long internship. <br>
