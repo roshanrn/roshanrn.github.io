@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## Samsung Semiconductor (bangalore, India)
+## Samsung Semiconductor (Bangalore, India)
 * 
 
 
