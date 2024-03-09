@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Roshan R Nair"
   avatar           : "roshan_img.jpg"
-  bio              : "Engineer"
-  location         : "Bangalore, India"
-  employer         : "Samsung Semiconductor"
+  bio              : "Staff Engineer"
+  #location         : ""
+  employer         : "Samsung Semiconductor (Bangalore, India)"
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=Zpainp8AAAAJ"
   email            : "roshannairwork@gmail.com"
