@@ -14,7 +14,7 @@ I currently work on data grouping problems and data placement methods involving 
 
 In the past, I have worked on disaggregated storage systems and distributed systems, specifically researching the topics of Data Replication, State Machine Replication (Consensus Algorithms), flexible node scaling, etc. I have also worked on workload analysis, specifically focusing on using machine learning to perform workload characterisation. 
 
-Prior to joining Samsung, I completed my Masters in Mathematics and Bachelors in Electrical and Electronics Engineering from [BITS Pilani, Goa](https://www.bits-pilani.ac.in/goa/). During my time there I worked on the research areas of Mathematical Modelling and Disease Dynamics (stability analysis) under the guidance of [Prof. Amit Setia](https://scholar.google.com/citationsuser=Wt02vywAAAAJ&hl=en&oi=sra).
+Prior to joining Samsung full time in 2020, I completed my Masters in Mathematics and Bachelors in Electrical and Electronics Engineering from [BITS Pilani, Goa](https://www.bits-pilani.ac.in/goa/). During my time there I worked on the research areas of Mathematical Modelling and Disease Dynamics (stability analysis) under the guidance of [Prof. Amit Setia](https://scholar.google.com/citationsuser=Wt02vywAAAAJ&hl=en&oi=sra).
 
 I enjoy teaching and I strongly believe in free access to information, especially in an academic setting. Given this belief I share academic knowledge (when time permits) from my experiences thus far in the field of Mathematics  on my [Youtube Channel](https://www.youtube.com/@nairsrealm4749). In the coming years, I hope to spend more time on teaching.
 
