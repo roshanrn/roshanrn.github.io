@@ -21,4 +21,4 @@ In my free time I like to play chess, table tennis, watch football, read (mostly
 Research Interests
 ======
 
-My research interests lie in distributed storage systems, the application of machine learning in solving storage systems problems, workload characterisation and classification, data grouping problems in SSDs and mathematical modelling.
+My research interests broadly lie in storage systems, distributed systems, workload characterization and data grouping. I particularly enjoy working with high performance systems at scale that optimize how SSDs are used. Of late, I've also been interested with how mathematical modelling can play a vital role in analyzing storage systems and also how machine learning can be used to solve systems engineering problems like data placement, data grouping, etc.
