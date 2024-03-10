@@ -1,14 +1,12 @@
 ---
 permalink: /
-title: ""
+title: "Introduction"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-[Curriculum Vitae](files/paper1.pdf)
 
 I am a Staff Engineer at [Samsung Semiconductor (Bangalore, India)](https://www.linkedin.com/company/samsungsemiconductor/), where I work in the Global Open eco-System Team (GOST). I currently work on data grouping problems and technologies involving SSDs, specifically [Flexible Data Placement (FDP)](https://www.youtube.com/watch?v=ZEISXHcNmSk) and its integration to various application stacks (ex. [CacheLib](https://cachelib.org/)). 
 
