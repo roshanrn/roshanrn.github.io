@@ -7,5 +7,5 @@ redirect_from:
   - /resume
 ---
 
-[Curriculum Vitae](/files/paper1.pdf)
+[Curriculum Vitae](./RoshanRNair_resume.pdf)
 
