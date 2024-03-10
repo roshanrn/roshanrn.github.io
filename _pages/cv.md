@@ -7,5 +7,5 @@ redirect_from:
   - /resume
 ---
 
-[Curriculum Vitae](files/paper1.pdf)
+[Curriculum Vitae](/files/paper1.pdf)
 
