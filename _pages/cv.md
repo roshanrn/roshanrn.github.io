@@ -7,31 +7,5 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
-Education
-======
-
-
-Work experience
-======
-
-  
-Skills
-======
-
-
-Publications
-======
-
-  
-Talks
-======
- 
-  
-Teaching
-======
-  
-Service and leadership
-======
+[Curriculum Vitae](files/paper1.pdf)
 
