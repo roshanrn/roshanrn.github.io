@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Samsung Semiconductor (Bangalore, India)
-* Invited by Samsung Semiconductor India's Patent Worskhop to present my patent titled " Device and method for data replication in disaggregated distributed storage system" (2024)
+* Invited to Samsung Semiconductor India's Patent Worskhop to present my patent titled " Device and method for data replication in disaggregated distributed storage system" (2024)
 * Invited by Samsung Semiconductor HR to give a talk on "Campus to Corporate Life" to the incoming freshers. (2022)
 * Organised a talk on "Introduction to Distributed Systems" as a part of the freshers' training program in Samsung Semiconductor. (2021 and 2022)
   
