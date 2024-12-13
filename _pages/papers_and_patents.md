@@ -7,7 +7,9 @@ author_profile: true
 
 Papers
 ====
-1. [Numerical solution of a nonlinear fractional model for hepatitis C by using Haar wavelets](https://pubs.aip.org/aip/acp/article-abstract/1975/1/030005/1020894/Numerical-solution-of-a-nonlinear-fractional-model), AIP Conference Proceedings, 2018.
+1. [Towards Efficient Flash Caches with Emerging NVMe Flexible Data Placement SSDs.](), To Appear EuroSys, 2025.
+   <br>Michael Allison, Arun George, Javier Gonzalez, Daniel Helmick, Vikash Kumar, **Roshan R Nair**, Vivek Shah.
+3. [Numerical solution of a nonlinear fractional model for hepatitis C by using Haar wavelets](https://pubs.aip.org/aip/acp/article-abstract/1975/1/030005/1020894/Numerical-solution-of-a-nonlinear-fractional-model), AIP Conference Proceedings, 2018.
     <br>Amit Setia, Pushpendu Ghosh, **Roshan R Nair** (Alphabetical Order)
 
 Patents
