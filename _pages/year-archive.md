@@ -5,6 +5,10 @@ permalink: /year-archive/
 author_profile: true
 ---
 
+[December 11, 2024] Was the guest speaker in the December monthly call in the OCP Sustainability Project. Presented my SDC talk again!
+
+[September 18, 2024] Presented a talk on NVMe FDP and Sustainability at SDC '24. [The Promise of NVMe Flexible Data Placement in Data Center Sustainability](https://www.sniadeveloper.org/events/agenda/session/698)
+
 [March 1, 2024] I've been promoted to Staff Engineer (SDE 3) at Samsung Semiconductor! 
 <br>
 
