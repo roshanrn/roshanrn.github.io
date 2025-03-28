@@ -12,7 +12,8 @@ Papers
 1. [Towards Efficient Flash Caches with Emerging NVMe Flexible Data Placement SSDs.](https://arxiv.org/pdf/2503.11665), To Appear EuroSys, 2025.
    <br>Michael Allison, Arun George, Javier Gonzalez, Daniel Helmick, Vikash Kumar, **Roshan R Nair**, Vivek Shah.*
 3. [Numerical solution of a nonlinear fractional model for hepatitis C by using Haar wavelets](https://pubs.aip.org/aip/acp/article-abstract/1975/1/030005/1020894/Numerical-solution-of-a-nonlinear-fractional-model), AIP Conference Proceedings, 2018.
-    <br>Amit Setia, Pushpendu Ghosh, **Roshan R Nair** 
+    <br>Amit Setia, Pushpendu Ghosh, **Roshan R Nair**
+
 Patents
 ====
 1. [Device and method for data replication in disaggregated distributed storage system](https://patents.google.com/patent/US20230205445A1/) (US Patent Published, 2023) **First Inventor**
