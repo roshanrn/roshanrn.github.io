@@ -14,7 +14,7 @@ In the past I worked on data grouping problems and data placement technologies i
 
 Prior to joining Samsung full time in 2020, I completed my Masters in Mathematics and Bachelors in Electrical and Electronics Engineering from [BITS Pilani, Goa](https://www.bits-pilani.ac.in/goa/). During my time there I worked on the research areas of Mathematical Modelling and Disease Dynamics (stability analysis) under the guidance of [Prof. Amit Setia](https://scholar.google.com/citations?user=Wt02vywAAAAJ&hl=en)
 
-I enjoy teaching and I strongly believe in free access to information. I put up Mathematics videos on my [YouTube Channel](https://www.youtube.com/@nairsrealm4749) based on the knowledge I've accrued over the years. In the coming years, I hope to spend more time on teaching Mathematics and Computer Science!  
+I enjoy teaching and I strongly believe in free access to information. In the short break I had during the pandemic between graduating from college and starting full-time at Samsung, I put up Mathematics videos on my [YouTube Channel](https://www.youtube.com/@nairsrealm4749) based on the knowledge I accrued in college. In the coming years, I hope to spend more time on teaching Mathematics and Computer Science!  
 In my free time I like to play chess, table tennis, watch football, read (mostly fiction) and indulge in art and writing as well. I also enjoy taking long walks and listening to music.
 
 
