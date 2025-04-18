@@ -7,5 +7,5 @@ redirect_from:
   - /resume
 ---
 
-[Curriculum Vitae](./AcademicResume_2024.pdf)
+[Curriculum Vitae as of April 2025](./RoshanRNairCV.pdf)
 
