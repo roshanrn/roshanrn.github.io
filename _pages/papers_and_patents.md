@@ -27,6 +27,8 @@ Industry Conference Talks
 ====
 1. [The Promise of NVMe Flexible Data Placement in Data Center Sustainability](https://www.sniadeveloper.org/events/agenda/session/698), SDC 2024.
    <br> **Roshan R Nair** and Arun George.
+2. [Guest Speaker at the OCP Sustainability December Monthly Call - Presented the SDC talk again](https://www.youtube.com/watch?v=fW9GFGe73NU), OCP Sustainability December 2024.
+   <br> **Roshan R Nair**
 
 White Papers and Blog Posts
 ====
