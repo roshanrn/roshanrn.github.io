@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Staff Engineer at [Samsung Semiconductor (Bangalore, India)](https://www.linkedin.com/company/samsungsemiconductor/), where I work in the Advanced R&D team, Memory Solutions. I'm also affiliated to Samsung's Global Open eco-System Team (GOST). I currently work on CXL memory pooling and memory tiering solutions to enable the deployment of Samsung's CMM-X hardware. 
+I am a Staff Engineer at [Samsung Semiconductor (Bangalore, India)](https://www.linkedin.com/company/samsungsemiconductor/), where I work in the Advanced R&D Team under the Memory Solutions Group. I'm also a member of Samsung's Global Open eco-System Team (GOST). I currently work on CXL memory pooling and memory tiering solutions to enable the deployment of Samsung's CMM-X hardware. 
 
 In the past I worked on data grouping problems and data placement technologies involving SSDs, specifically [Flexible Data Placement (FDP)](https://www.youtube.com/watch?v=ZEISXHcNmSk) and its integration to various application stacks (ex. [CacheLib](https://cachelib.org/)). I have also worked on disaggregated storage systems and distributed systems, specifically researching the topics of data replication, state machine replication (consensus algorithms - raft), flexible node scaling and failure recovery, etc. I have also worked on workload analysis, specifically focusing on using machine learning to perform workload characterisation. 
 
