@@ -21,4 +21,4 @@ In my free time I like to play chess, table tennis, watch football, read (mostly
 Research Interests
 ======
 
-My research interests broadly lie in using memory and storage systems to buld high performance large scale systems. I often make use of mathematical modeling to create models and simulator to better understand the systems I work on. I am also interested in researching and improving the power efficiency and sustainability of large scale datacenter systems.
+My research interests broadly lie in using memory and storage systems to buld high performance large scale systems. I often make use of mathematical modeling to create models and simulators to better understand the systems I work on. I am also interested in researching and improving the power efficiency and sustainability of large scale datacenter systems.
