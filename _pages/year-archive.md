@@ -5,6 +5,8 @@ permalink: /year-archive/
 author_profile: true
 ---
 
+[March 31, 2025] Our paper on NVMe FDP and CacheLib was published at EuroSys 2025!
+
 [December 11, 2024] Was the guest speaker in the December monthly call in the OCP Sustainability Project. Presented my SDC talk again!
 
 [September 18, 2024] Presented a talk on NVMe FDP and Sustainability at SDC '24. [The Promise of NVMe Flexible Data Placement in Data Center Sustainability](https://www.sniadeveloper.org/events/agenda/session/698)
