@@ -7,7 +7,7 @@ author_profile: true
 
 Papers
 ====
-*(Alphabetical Order of Surname)
+*(Alphabetically ordered by Last Name)
 
 1. [Towards Efficient Flash Caches with Emerging NVMe Flexible Data Placement SSDs.](https://arxiv.org/pdf/2503.11665). EuroSys 2025 (Acceptance Rate 12.4%)
    <br> Michael Allison, Arun George, Javier Gonzalez, Daniel Helmick, Vikash Kumar, **Roshan R Nair**, Vivek Shah.*
