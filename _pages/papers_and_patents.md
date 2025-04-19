@@ -20,7 +20,7 @@ Patents
 2. [Method and system for performing replication recovery operation in a disaggregated distributed storage systems](https://patents.google.com/patent/US20230205634A1/) (US Patent, Granted) **Primary Inventor**
 3. [Method and system for distributing and managing io in a disaggregated storage architecture](https://patents.google.com/patent/US20230205424A1/) (US Patent Published, 2023) **Inventor**
 4. [Methods and systems for identifying multiple workloads in a heterogeneous environment](https://patents.google.com/patent/US20240028419A1/) (US Patent Published, 2024) **First Inventor**
-5. []() (US Patent Filed, 2024) **Inventor**
+5. [Method and System for Data Segregation in Storage Devices using Longevity-hint based storage protocols]() (India Patent Filed, 2024 - US Patent Filing ongoing) **Inventor**
 
 
 Industry Conference Talks
