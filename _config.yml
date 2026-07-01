@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Roshan R Nair"
   avatar           : "roshan_img.jpg"
-  bio              : "Staff Engineer"
-  location         : "Bangalore, India"
-  employer         : "Samsung Semiconductor"
+  bio              : "PhD Student"
+  location         : "Lausanne, Switzerland"
+  employer         : "EPFL"
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=Zpainp8AAAAJ"
-  email            : "roshannairwork@gmail.com"
+  #email            : "roshannairwork@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              : 
   bitbucket        :
@@ -113,7 +113,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : "@nairsrealm4749"
+  #youtube          : "@nairsrealm4749"
   wikipedia        :
 
 
