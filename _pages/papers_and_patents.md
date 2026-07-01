@@ -5,22 +5,24 @@ permalink: /papers_and_patents/
 author_profile: true
 ---
 
-Papers
+Peer-Reviewed Publications
 ====
 *(Alphabetically ordered by Last Name)
 
-1. [Towards Efficient Flash Caches with Emerging NVMe Flexible Data Placement SSDs.](https://arxiv.org/pdf/2503.11665). EuroSys 2025 (Acceptance Rate 12.4%)
+1. [Advancing Data Integrity in Linux.](). FAST 2026 (Acceptance Rate 17%)
+   <br> Anuj Gupta, Christoph Hellwig, Kanchan Joshi, Vikash Kumar, Javier Gonzalez, **Roshan R Nair**, Jinyoung Choi
+2. [Towards Efficient Flash Caches with Emerging NVMe Flexible Data Placement SSDs.](https://arxiv.org/pdf/2503.11665). EuroSys 2025 (Acceptance Rate 12.4%)
    <br> Michael Allison, Arun George, Javier Gonzalez, Daniel Helmick, Vikash Kumar, **Roshan R Nair**, Vivek Shah.*
-2. [Numerical solution of a nonlinear fractional model for hepatitis C by using Haar wavelets](https://pubs.aip.org/aip/acp/article-abstract/1975/1/030005/1020894/Numerical-solution-of-a-nonlinear-fractional-model), AIP Conference Proceedings, 2018.
+3. [Numerical solution of a nonlinear fractional model for hepatitis C by using Haar wavelets](https://pubs.aip.org/aip/acp/article-abstract/1975/1/030005/1020894/Numerical-solution-of-a-nonlinear-fractional-model), AIP Conference Proceedings, 2018.
     <br>Amit Setia, Pushpendu Ghosh, **Roshan R Nair**
 
 Patents
 ====
 1. [Device and method for data replication in disaggregated distributed storage system](https://patents.google.com/patent/US20230205445A1/) (US Patent, Granted) **Primary Inventor**
 2. [Method and system for performing replication recovery operation in a disaggregated distributed storage systems](https://patents.google.com/patent/US20230205634A1/) (US Patent, Granted) **Primary Inventor**
-3. [Method and system for distributing and managing io in a disaggregated storage architecture](https://patents.google.com/patent/US20230205424A1/) (US Patent Published, 2023) **Inventor**
-4. [Methods and systems for identifying multiple workloads in a heterogeneous environment](https://patents.google.com/patent/US20240028419A1/) (US Patent Published, 2024) **First Inventor**
-5. [Method and System for Data Segregation in Storage Devices using Longevity-hint based storage protocols]() (India Patent Filed, 2024 - US Patent Filing ongoing) **Inventor**
+3. [Method and system for distributing and managing io in a disaggregated storage architecture](https://patents.google.com/patent/US20230205424A1/) (US Patent, Granted) **Inventor**
+4. [Methods and systems for identifying multiple workloads in a heterogeneous environment](https://patents.google.com/patent/US20240028419A1/) (US Patent, Granted) **Primary Inventor**
+5. [Method and System for Data Segregation in Storage Devices using Longevity-hint based storage protocols]() (US Patent Published 2025) **Inventor**
 
 
 Industry Conference Talks
