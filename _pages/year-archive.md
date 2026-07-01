@@ -5,6 +5,12 @@ permalink: /year-archive/
 author_profile: true
 ---
 
+[May 29, 2026] I passed my EPFL PhD Candidacy Exam! 
+
+[September 1, 2025] I've started my PhD at EPFL! Looking forward to what lies ahead.
+
+[June 2025] I've received admission to EPFL's EDIC PhD program with a Fellowship! I'll be joining EPFL in the Fall of 2025 for my PhD!
+
 [March 31, 2025] Our paper on NVMe FDP and CacheLib was published at EuroSys 2025!
 
 [December 11, 2024] Was the guest speaker in the December monthly call in the OCP Sustainability Project. Presented my SDC talk again!
